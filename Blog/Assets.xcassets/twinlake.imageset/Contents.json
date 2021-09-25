@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "测试.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "twinlake@2x.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
